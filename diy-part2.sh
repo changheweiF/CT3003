@@ -18,3 +18,5 @@
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
+git clone https://gh-proxy.com/https://github.com/EOYOHOO/rkp-ipid.git
+git clone https://gh-proxy.com/https://github.com/Zxilly/UA2F.git
